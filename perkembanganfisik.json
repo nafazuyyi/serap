@@ -5,12 +5,13 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "General Knowledge",
-        "question": "How many furlongs are there in a mile?",
-        "correct_answer": "Eight",
+        "question": "1.	Puncak perkembangan fisik remaja terjadi pada usia….",
+        "correct_answer": "14 tahun",
         "incorrect_answers": [
-          "Two",
-          "Four",
-          "Six"
+          "15 tahun",
+          "16 tahun",
+          "17 tahun",
+          "18 tahun"
         ]
       },
       {

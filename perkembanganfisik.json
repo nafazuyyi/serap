@@ -5,12 +5,11 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "General Knowledge",
-        "question": "1.	Puncak perkembangan fisik remaja terjadi pada usia….",
+        "question": "1.Puncak perkembangan fisik remaja terjadi pada usia….",
         "correct_answer": "14 tahun",
         "incorrect_answers": [
           "15 tahun",
           "16 tahun",
-         
           "18 tahun"
         ]
       },

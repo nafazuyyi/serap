@@ -1,1 +1,125 @@
-{"response_code":0,"results":[{"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"How many furlongs are there in a mile?","correct_answer":"Eight","incorrect_answers":["Two","Four","Six"]},{"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;","correct_answer":"Truth","incorrect_answers":["Answer","Cause","Source"]},{"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Which American president appears on a one dollar bill?","correct_answer":"George Washington","incorrect_answers":["Thomas Jefferson","Abraham Lincoln","Benjamin Franklin"]},{"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Five dollars is worth how many nickles?","correct_answer":"100","incorrect_answers":["50","25","69"]},{"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What nuts are used in the production of marzipan?","correct_answer":"Almonds","incorrect_answers":["Peanuts","Walnuts","Pistachios"]},{"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Which restaurant&#039;s mascot is a clown?","correct_answer":"McDonald&#039;s","incorrect_answers":["Whataburger","Burger King","Sonic"]},{"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"In which fast food chain can you order a Jamocha Shake?","correct_answer":"Arby&#039;s","incorrect_answers":["McDonald&#039;s","Burger King","Wendy&#039;s"]},{"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?","correct_answer":"Key","incorrect_answers":["Sword","Pen","Cellphone"]},{"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Red Vines is a brand of what type of candy?","correct_answer":"Licorice","incorrect_answers":["Lollipop","Chocolate","Bubblegum"]},{"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"How many colors are there in a rainbow?","correct_answer":"7","incorrect_answers":["8","9","10"]}]}
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "How many furlongs are there in a mile?",
+      "correct_answer": "Eight",
+      "incorrect_answers": [
+        "Two",
+        "Four",
+        "Six"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+      "correct_answer": "Truth",
+      "incorrect_answers": [
+        "Answer",
+        "Cause",
+        "Source"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which American president appears on a one dollar bill?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": [
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "Benjamin Franklin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Five dollars is worth how many nickles?",
+      "correct_answer": "100",
+      "incorrect_answers": [
+        "50",
+        "25",
+        "69"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What nuts are used in the production of marzipan?",
+      "correct_answer": "Almonds",
+      "incorrect_answers": [
+        "Peanuts",
+        "Walnuts",
+        "Pistachios"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which restaurant&#039;s mascot is a clown?",
+      "correct_answer": "McDonald&#039;s",
+      "incorrect_answers": [
+        "Whataburger",
+        "Burger King",
+        "Sonic"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "In which fast food chain can you order a Jamocha Shake?",
+      "correct_answer": "Arby&#039;s",
+      "incorrect_answers": [
+        "McDonald&#039;s",
+        "Burger King",
+        "Wendy&#039;s"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+      "correct_answer": "Key",
+      "incorrect_answers": [
+        "Sword",
+        "Pen",
+        "Cellphone"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Red Vines is a brand of what type of candy?",
+      "correct_answer": "Licorice",
+      "incorrect_answers": [
+        "Lollipop",
+        "Chocolate",
+        "Bubblegum"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "How many colors are there in a rainbow?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "8",
+        "9",
+        "10"
+      ]
+    }
+  ]
+}

@@ -5,7 +5,7 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "General Knowledge",
-        "question": "1. Puncak perkembangan fisik remaja terjadi pada usia….",
+        "question": "Puncak perkembangan fisik remaja terjadi pada usia….",
         "correct_answer": "14 tahun",
         "incorrect_answers": [
           "15 tahun",
@@ -18,7 +18,7 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "General Knowledge",
-        "question": "2. Apa penanda pubertas yang terjadi pada laki-laki usia 14 tahun?",
+        "question": "Apa penanda pubertas yang terjadi pada laki-laki usia 14 tahun?",
         "correct_answer": "Suara membesar",
         "incorrect_answers": [
           "Payudara membesar",
@@ -31,7 +31,7 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "General Knowledge",
-        "question": "3. Apa yang bukan menjadi karakteristik pubertas pada perempuan?",
+        "question": "Apa yang bukan menjadi karakteristik pubertas pada perempuan?",
         "correct_answer": "Peningkatan ukuran penis dan testis",
         "incorrect_answers": [
           "Payudara membesar",
@@ -44,7 +44,7 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "General Knowledge",
-        "question": "4. Apa yang sering dilakukan oleh remaja saat masa pubertas?",
+        "question": "Apa yang sering dilakukan oleh remaja saat masa pubertas?",
         "correct_answer": "Membandingkan fisiknya dengan fisik orang lain",
         "incorrect_answers": [
           "Menyukai perubahan bentuknya",
@@ -57,7 +57,7 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "General Knowledge",
-        "question": "5. Apa permasalahan yang timbul ketika seseorang sudah selesai masa pubertasnya?",
+        "question": "Apa permasalahan yang timbul ketika seseorang sudah selesai masa pubertasnya?",
         "correct_answer": "Ketidakpuasan",
         "incorrect_answers": [
           "Menyukai",
